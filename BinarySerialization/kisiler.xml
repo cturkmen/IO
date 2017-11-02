@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKisi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kisi>
+    <Ad>Sdfsdf</Ad>
+    <Soyad>Sdfsdfsd</Soyad>
+    <Boy>2</Boy>
+    <Kilo>21</Kilo>
+    <DogumTarihi>1986-05-17T11:29:27</DogumTarihi>
+    <TCKN>12345678945</TCKN>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <MedeniDurum>Evli</MedeniDurum>
+    <Meslek>dscds</Meslek>
+  </Kisi>
+  <Kisi>
+    <Ad>Ytutuu</Ad>
+    <Soyad>Nbnb</Soyad>
+    <Boy>54</Boy>
+    <Kilo>5</Kilo>
+    <DogumTarihi>1975-05-17T11:29:50</DogumTarihi>
+    <TCKN>98765432198</TCKN>
+    <Cinsiyet>Kadın</Cinsiyet>
+    <MedeniDurum>Bekar</MedeniDurum>
+    <Meslek>yhgh</Meslek>
+  </Kisi>
+</ArrayOfKisi>

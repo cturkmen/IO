@@ -1,0 +1,9 @@
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.Form1.resources
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.Properties.Resources.resources
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb

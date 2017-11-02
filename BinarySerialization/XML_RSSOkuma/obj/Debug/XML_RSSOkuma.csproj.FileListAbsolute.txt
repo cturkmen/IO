@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\bin\Debug\XML_RSSOkuma.exe.config
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\bin\Debug\XML_RSSOkuma.exe
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\bin\Debug\XML_RSSOkuma.pdb
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.Form1.resources
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.Properties.Resources.resources
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.exe
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.pdb
+D:\wissen ders etkinlikleri\IO\BinarySerialization\XML_RSSOkuma\bin\Debug\XML_RSSOkuma.exe.config
+D:\wissen ders etkinlikleri\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.exe
+D:\wissen ders etkinlikleri\IO\BinarySerialization\XML_RSSOkuma\obj\Debug\XML_RSSOkuma.pdb

@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\bin\Debug\XML_Json_SerializationDeserialization.exe.config
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.Form1.resources
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.Properties.Resources.resources
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\bin\Debug\XML_Json_SerializationDeserialization.exe
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\bin\Debug\XML_Json_SerializationDeserialization.pdb
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.exe
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.pdb
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wissen\Documents\Canan Türkmen\WindowsForms\IO\BinarySerialization\XML_Json_SerializationDeserialization\obj\Debug\XML_Json_SerializationDeserialization.DovizForm.resources

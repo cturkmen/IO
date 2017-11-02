@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySerialization", "BinarySerialization\BinarySerialization.csproj", "{DAA7E5C1-8803-4E52-9882-7A4DBCC3D5C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Json_SerializationDeserialization", "XML_Json_SerializationDeserialization\XML_Json_SerializationDeserialization.csproj", "{D72DD9EF-3D51-40DA-BDBD-F29EBD07B88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_RSSOkuma", "XML_RSSOkuma\XML_RSSOkuma.csproj", "{359491E6-46D4-4594-A5A8-96B2999BB4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA7E5C1-8803-4E52-9882-7A4DBCC3D5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA7E5C1-8803-4E52-9882-7A4DBCC3D5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA7E5C1-8803-4E52-9882-7A4DBCC3D5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA7E5C1-8803-4E52-9882-7A4DBCC3D5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72DD9EF-3D51-40DA-BDBD-F29EBD07B88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72DD9EF-3D51-40DA-BDBD-F29EBD07B88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72DD9EF-3D51-40DA-BDBD-F29EBD07B88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72DD9EF-3D51-40DA-BDBD-F29EBD07B88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359491E6-46D4-4594-A5A8-96B2999BB4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359491E6-46D4-4594-A5A8-96B2999BB4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359491E6-46D4-4594-A5A8-96B2999BB4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359491E6-46D4-4594-A5A8-96B2999BB4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
